@@ -1,0 +1,24 @@
+{
+    "name": "hao/php-sdk",
+    "homepage": "https://github.com/JZhao1020/php-sdk",
+    "description": "php 常用功能封装",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hao",
+            "email": "18816784184@163.com"
+        }
+    ],
+    "keywords": [
+        "php-sdk"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPSDK\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
