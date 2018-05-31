@@ -26,7 +26,7 @@ class Loader{
     static function & get($calss_name){
         $index = md5(strtolower($calss_name));
         if (!isset(self::$cache[$index])) {
-            $class = '\\lib\\'.$calss_name;
+            $class = '\\PHPSDK\\lib\\'.$calss_name;
             self::$cache[$index] = new $class();
         }
         return self::$cache[$index];
