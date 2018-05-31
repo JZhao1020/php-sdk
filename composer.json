@@ -1,5 +1,5 @@
 {
-    "name": "hao/php-sdk",
+    "name": "hao/hao-php-sdk",
     "homepage": "https://github.com/JZhao1020/php-sdk",
     "description": "php 常用功能封装",
     "type": "library",
@@ -10,7 +10,7 @@
         }
     ],
     "keywords": [
-        "php-sdk"
+        "hao-php-sdk"
     ],
     "license": "MIT",
     "autoload": {
