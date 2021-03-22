@@ -1,5 +1,5 @@
 {
-    "name": "hao/hao-php-sdk",
+    "name": "hao/sdk",
     "homepage": "https://github.com/JZhao1020/php-sdk",
     "description": "php 常用功能封装",
     "type": "library",
