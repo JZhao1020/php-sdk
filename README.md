@@ -1,11 +1,11 @@
 # php常用功能封装
 
 ## 开源地址
-https://github.com/JZhao1020/php-sdk
+https://github.com/JZhao1020/sdk
 
 ##安装
 ```
-composer require hao/hao-php-sdk
+composer require hao/sdk
 ```
 
 
